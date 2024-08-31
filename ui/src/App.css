@@ -1,0 +1,27 @@
+.logo {
+  height: 150px;
+  cursor: pointer;
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: coral;
+}
+
+.themeFontColor {
+  color: coral;
+}
+
+tr {
+  cursor: pointer;
+}
+
+header {
+  border-bottom: 1px solid gray;
+  padding: 2rem;
+}
+
+.back {
+  cursor: pointer;
+}
